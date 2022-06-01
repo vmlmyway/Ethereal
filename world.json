@@ -1,0 +1,22 @@
+{
+  "name": "the-ethereal",
+  "title": "The Ethereal",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "71ORDvrkawL._SS500_.jpg",
+  "coreVersion": "9.269",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.6.1"
+}
